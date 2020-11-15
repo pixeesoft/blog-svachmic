@@ -5,8 +5,6 @@ const Layout = ({ location, title, children, hyperlinks }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
   let header
-  console.log("YOLO")
-  console.log(hyperlinks)
 
   if (isRootPath) {
     header = (

@@ -1,17 +1,17 @@
-import React from "react"
-import { graphql } from "gatsby"
-
 import Layout from "../components/layout"
+import React from "react"
 import SEO from "../components/seo"
+import { graphql } from "gatsby"
 
 const NotFoundPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
+  const hyperlinks = data.site.siteMetadata.hyperlinks
 
   return (
-    <Layout location={location} title={siteTitle}>
-      <SEO title="404: Not Found" />
-      <h1>404: Not Found</h1>
-      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+    <Layout location={location} title={siteTitle} hyperlinks={hyperlinks}>
+      <SEO title="404: Stránka nenalezena" />
+      <h1>404: Stránka nenalezena</h1>
+      <p>Něco by tu možná mělo být. Ale není...</p>
     </Layout>
   )
 }
@@ -23,6 +23,11 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        hyperlinks {
+            pixeesoft
+            github
+            stackoverflow
+        }
       }
     }
   }

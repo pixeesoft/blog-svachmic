@@ -11,7 +11,7 @@ module.exports = {
         stackoverflow: `https://stackoverflow.com/users/1196908/michal`,
     },
     description: `Osobní blog Michala Šváchy.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://svachmic.netlify.app/`,
     social: {
       twitter: `miguelitinho`,
     },
