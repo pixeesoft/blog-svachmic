@@ -11,7 +11,7 @@ module.exports = {
         stackoverflow: `https://stackoverflow.com/users/1196908/michal`,
     },
     description: `Osobní blog Michala Šváchy.`,
-    siteUrl: `https://svachmic.netlify.app/`,
+    siteUrl: `https://www.svachmic.cz/`,
     social: {
       twitter: `miguelitinho`,
     },
@@ -59,7 +59,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-61928196-1`,
+        anonymize: true,
+        respectDNT: true,
       },
     },
     `gatsby-plugin-feed`,
