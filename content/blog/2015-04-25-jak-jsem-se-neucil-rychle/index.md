@@ -44,14 +44,5 @@ Takže přátelé, jestli vám můžu dát jednu radu, tak tady je:
 
 > "Hlavně se z toho neposerte, když něco nejde okamžitě."
 
----
-
-<br />
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-  <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-</a>
-
-##### **This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)**
-
 [ludwig]: https://cs.wikipedia.org/wiki/Petr_Ludwig
 [mahler]: http://quotes.lifehack.org/quote/gustav-mahler/discipline-work-work-discipline/

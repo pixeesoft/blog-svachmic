@@ -79,7 +79,7 @@ Thomas na nic nečekal a rovnou šel k věci, že v procesu už nebudou dál pok
 
 Jemně jsem se ho zeptal zda má přístup k mému CV. Pak jsem se ho zeptal, co vidí jako **objective** mého životopisu. Pro korektnost zde uvádím screenshot vrchu mého životopisu:
 
-![CV](./screenshot.jpg)
+![CV](./curriculum_vitae.jpg)
 
 Chvíli se z telefonu nic neozývalo až na pár hlasitých oddechů. Nakonec šel Thomas s pravdou ven, že se chyba stala u nich. Že se mi za to omlouvá a pokud chci, tak mě předá na internship HR oddělení, abych začal proces znovu.
 
@@ -90,15 +90,6 @@ Konec zábavy, nervy mám jen jedny. Pěkně jsem Thomasovi poděkoval, že nem�
 ## Poučení
 
 Cítím zášť nebo nenávist? Ale vůbec. Zkusím to znovu? Zcela určitě! Ač mi trochu hnuli žlučí, tak to ve skutečnosti byl docela dobrý trénink - vyzkoušet si třikrát technický pohovor. Alespoň teď přesně vím, co mě příště čeká. Budu muset naskillovat trochu iterátory, v mezičase budu pokračovat na svém [grafovacím frameworku][SGRAPH] a třeba se příště dočkám krásné otázky na teorii grafů hned v prvním kole. Jen si dám pozor, že obě strany chápou, o jakou pozici se ucházím. To aby Google příště dostál svému "IF YOU FAIL, FAIL FAST".
-
----
-
-<br />
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-  <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-</a>
-
-##### **This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)**
 
 [destil]: https://twitter.com/destil
 [destil-google]: https://www.youtube.com/watch?v=bAi83yD4-fc 
