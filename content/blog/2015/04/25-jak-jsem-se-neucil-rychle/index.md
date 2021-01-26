@@ -2,8 +2,8 @@
 layout: post
 title:  "Jak jsem se neučil rychle"
 description: "O tom, jak jsem se dostal z iluze úspěchu přes noc."
-date:   2015-04-25 10:00:00
-categories: personal
+date: "2015-04-25 10:00:00"
+categories: "personal"
 tags: [czech, opinion, education]
 ---
 

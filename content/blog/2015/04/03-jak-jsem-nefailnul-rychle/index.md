@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Jak jsem nefailnul rychle"
+title: "Jak jsem nefailnul rychle"
 description: "O tom, jak jsem se chtěl dostat do Googlu a byl jsem nakonec za pitomce."
-date:   2015-04-03 13:00:00
-categories: jobs
+date: "2015-04-03 13:00:00"
+categories: "jobs"
 tags: [czech, programming, career, interview]
 ---
 
