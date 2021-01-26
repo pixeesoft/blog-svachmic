@@ -30,6 +30,8 @@ const BlogIndex = ({ data, location }) => {
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
           const readingTime = Math.ceil(post.fields.readingTime.minutes)
+          const date = new Date(post.frontmatter.date)
+          const localizedDate = date.toLocaleDateString('cs-CZ')
 
           return (
             <li key={post.fields.slug}>
@@ -44,7 +46,7 @@ const BlogIndex = ({ data, location }) => {
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
-                <small>{post.frontmatter.date}{' '}&bull;{' '}<span role="img" aria-label="coffee emoji reading time">☕️</span> {readingTime} min čtení</small>
+                <small>{localizedDate}{' '}&bull;{' '}<span role="img" aria-label="coffee emoji reading time">☕️</span> {readingTime} min čtení</small>
                 </header>
                 <section>
                   <p

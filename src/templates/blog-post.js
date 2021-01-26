@@ -11,6 +11,8 @@ const BlogPostTemplate = ({ data, location }) => {
   const { previous, next } = data
   const readingTime = Math.ceil(post.fields.readingTime.minutes)
   const hyperlinks = data.site.siteMetadata.hyperlinks
+  const date = new Date(post.frontmatter.date)
+  const localizedDate = date.toLocaleDateString('cs-CZ')
 
   return (
     <Layout location={location} title={siteTitle} hyperlinks={hyperlinks}>
@@ -25,7 +27,7 @@ const BlogPostTemplate = ({ data, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}{' '}&bull;{' '}<span role="img" aria-label="coffee emoji reading time">☕️</span> {readingTime} min čtení</p>
+          <p>{localizedDate}{' '}&bull;{' '}<span role="img" aria-label="coffee emoji reading time">☕️</span> {readingTime} min čtení</p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
