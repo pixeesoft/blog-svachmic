@@ -7,6 +7,8 @@ categories: "jobs"
 tags: [czech, programming, career, interview]
 ---
 
+![Záhlaví](./header.jpg)
+
 > Článek jsem tolikrát přepisoval a tak dlouho odkládal, až mi tak trochu "okoral" co do časového uspořádání. Výsledné sdělení je ale pořád stejné, tak si zkrátka zkuste představit, že je cca listopad 2014 a je to :-)
 
 Akademický rok 2014/2015 trávím na Erasmu v Paříži. Nestěžuju si, ale francouzské školství je tak strašně odlišné od toho českého, že jsem se rozhodl druhý semestr vyplnit místo studiem stáží. Jelikož jsem měl film [Stážisti][internship-movie] furt v hlavě od doby co jsem na něm byl v kině (fakt, neuwarezil jsem ho!), tak jsem si tak naivně řekl, že bych to mohl zkusit.

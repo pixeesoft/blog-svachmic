@@ -8,6 +8,8 @@ categories: "education"
 tags: [czech, education]
 ---
 
+![Záhlaví](./header.jpg)
+
 Bylo poledne, 31. srpna, středeční poledne, byl promování čas! Je to tak - po dlouhých a krásných šesti letech jsem se dočkal toho dne, kdy slavnostně zakončím dráhu studenta na plný úvazek. Byla to dráha krásná natolik, že jsem se o ní rozhodl sepsat samostatný příspěvek. Ten ale přijde později, protože si musím některé věci nejdřív nechat trochu uležet. Mezitím začneme stylově "odzadu", tedy od promoce.
 
 Asi by to nebylo nic extra, kdybych tu sáhodlouze popisoval jak promoce probíhala - jak jsme nastupovali, jak nás volali apod. To není důvod proč příspěvek píšu. Píšu jej proto, že jsem měl na promoci tu čest a zároveň i povinnost senátora z AS ČVUT pronést za absolventy proslov.

@@ -7,6 +7,8 @@ categories: "personal"
 tags: [czech, opinion, education]
 ---
 
+![Záhlaví](./header.jpg)
+
 > Varování: Tento příspěvek je velmi kritický vůči "moderním přístupům" a vyjadřuje spoustu mých názorů, které mohou někteří shledat nepohodlnými. V případě psychické újmy jste byli varováni.
 
 Minulý víkend mě zastihla nepřipraveného krátkodobá, zato pořádná deprese. Někteří z vás jistě víte, že když už mě to jednou za uherák chytne, tak to sakra stojí za to. Příčina byla celkem nepodstatná, ale okolnosti chtěly, aby se to přeneslo i na další lidi a tak jsme si zajeli hezky do vlasů (hrnky nelítaly, to zase ne...) a pak všechny zúčastněné strany litovaly, jak už to tak bývá. Co tedy bylo iniciátorem prdelní nálady, ptáte se? Moje vysoké nároky a očekávání od sebe samotnýho - zkrátka během víkendový zkoušky s orchestrem jsem přišel k uvědomění, že po celých 7 měsících nejsem schopnej vést konverzaci o hloubce skladby a všech nálad, které jsou v 5. symfonii Petra Iljiče Čajkovskýho promítnuty. Začalo to nevinně - nevěděl jsem jak říct to a to a postupně to ve mě bublalo až jsem dostal, jak by [Petr Ludwig][ludwig] nazval "křečka". V tom stavu je zcela validní a ideální, když vnitřně nevědomky přihřívate polívčičku dalšími negativními emocemi. Jako třeba po(b)litická situace v ČR, drahej nájem, tuna projektů a deadlajnů...a celý to tak valíte před sebou, až najednou všechno to negativní harampadí hodíte na někoho úplně nevinného.

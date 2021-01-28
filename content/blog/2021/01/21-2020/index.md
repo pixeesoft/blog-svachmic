@@ -8,6 +8,8 @@ categories: education
 tags: [czech, opinion]
 ---
 
+![Záhlaví](./header.jpg)
+
 Rok 2020 už je pár týdnu historií a abych letos vykopnul své psaní, vrátím se k pár věcem, které jsem si z loňska odnesl. Než psát články tipu "10 zaručených tipů jak ..." se rozepíšu o třech rčeních a jejich významech (pro mě) vzhledem k roku 2020.
 
 ## 1. Pravda je někde uprostřed.
