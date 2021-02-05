@@ -12,6 +12,15 @@ const NotFoundPage = ({ data, location }) => {
       <SEO title="404: Stránka nenalezena" />
       <h1>404: Stránka nenalezena</h1>
       <p>Něco by tu možná mělo být. Ale není...</p>
+      <iframe
+        title="Always look on the bright side of life."
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/X_-q9xeOgG4"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowFullscreen
+      />
     </Layout>
   )
 }
@@ -24,9 +33,9 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         hyperlinks {
-            pixeesoft
-            github
-            stackoverflow
+          pixeesoft
+          github
+          stackoverflow
         }
       }
     }
