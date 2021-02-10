@@ -9,6 +9,7 @@ module.exports = {
         pixeesoft: `https://pixeesoft.blog`,
         github: `https://github.com/svachmic`,
         stackoverflow: `https://stackoverflow.com/users/1196908/michal`,
+        email: `mailto:kontakt@svachmic.cz`
     },
     description: `Osobní blog Michala Šváchy.`,
     siteUrl: `https://www.svachmic.cz/`,
@@ -74,7 +75,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#8a02bc`,
         display: `minimal-ui`,
-        icon: `content/assets/blog-icon.png`,
+        icon: `content/assets/favicon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
