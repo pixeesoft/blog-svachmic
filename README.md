@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.svachmic.cz">
-    <img alt="Gatsby" src="./static/apple-icon-120x120.png" width="60" />
+    <img alt="Blog icon" src="./content/assets/favicon.png" width="60" />
   </a>
 </p>
 <h1 align="center">
