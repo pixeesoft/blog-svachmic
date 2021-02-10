@@ -39,19 +39,9 @@ const Layout = ({ location, title, children, hyperlinks }) => {
         </a>{' '}
         &bull;{' '}
         <a
-          href={hyperlinks.github}
-          target="_blank"
-          rel="noopener noreferrer"
+          href={hyperlinks.email}
         >
-          github
-        </a>{' '}
-        &bull;{' '}
-        <a
-          href={hyperlinks.stackoverflow}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          stack overflow
+          kontakt
         </a>
       </footer>
     </div>

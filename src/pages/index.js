@@ -9,11 +9,12 @@ const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
   const hyperlinks = data.site.siteMetadata.hyperlinks
+  const name = data.site.siteMetadata?.author?.name || `Blog`
 
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle} hyperlinks={hyperlinks}>
-        <SEO title="Blog" />
+        <SEO title={name} />
         <Bio />
         <p>
           Zatím zde není žádný příspěvek.
@@ -24,7 +25,7 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle} hyperlinks={hyperlinks}>
-      <SEO title="Blog" />
+      <SEO title={name} />
       <Bio />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
@@ -76,6 +77,10 @@ export const pageQuery = graphql`
             pixeesoft
             github
             stackoverflow
+            email
+        }
+        author {
+            name
         }
       }
     }

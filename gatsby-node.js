@@ -97,6 +97,7 @@ exports.createSchemaCustomization = ({ actions }) => {
         pixeesoft: String
         github: String
         stackoverflow: String
+        email: String
     }
 
     type Author {
