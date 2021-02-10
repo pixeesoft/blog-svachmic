@@ -136,14 +136,16 @@ A přesně tento narativ se snažím v sobě držet, protože z negativního my�
 
 Takže na pozitivních vlnách a za zvuku Kelly Clarkson nashle příště! 👋
 
-<iframe
-    width="560"
-    height="315"
+<div class="iframe-container">
+  <iframe
+    class="iframe-responsive"
+    title="What doesn't kill you makes you stronger."
     src="https://www.youtube.com/embed/Xn676-fLq7I"
     frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowFullscreen
-/>
+  />
+</div>
 
 [guardian]: https://www.theguardian.com/science/2019/feb/17/study-blames-youtube-for-rise-in-number-of-flat-earthers
 [leg-formula]: https://latex.codecogs.com/svg.latex?\Large&space;\frac{0n&plus;2n}{2}=1n
